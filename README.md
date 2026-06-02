@@ -118,28 +118,6 @@ The model also provides a confidence score.
 
 ---
 
-# 📊 Example Output
-
-```bash id="3ewgk9"
-==================================================
-🧠 Training Phishing Detection Model 🧠
-==================================================
-
-[+] Model training successfully completed!
-
-[*] Processing incoming unknown emails...
-
-Paste The Email:
-Urgent security update required for your account access.
-
-==================================================
-📊 CLASSIFICATION REPORT
-==================================================
-
-Verdict: 🚨 PHISHING DETECTED
-Confidence Score: 94.6%
-```
-
 ---
 
 # 📚 Learning Outcomes
